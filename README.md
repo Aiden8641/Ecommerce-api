@@ -14,7 +14,7 @@ An Ecommerce api built with typescript and express. Featuring payment processing
 
 clone the repo:
 ```
-
+git clone https://github.com/Aiden8641/Ecommerce-api.git
 ```
 
 open directory: 
